@@ -18,6 +18,7 @@ namespace CapaDeUsuario
             int nroPro, cant;
             String descripcion;
             Double precio;
+            String Codigo;
 
             Console.WriteLine(" *** ALTA DE PRODUCTO ***\n ");
 
